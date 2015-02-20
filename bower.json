@@ -1,11 +1,11 @@
 {
-  "name": "ng-chart.js",
+  "name": "ngChart.js",
   "version": "1.0.0",
   "authors": [
     "Mohammed Hammoud <mohammed@iktw.se>"
   ],
   "description": "Minimalistic AngularJs directive which wraps and makes ChartJs dynamic",
-  "main": "ng-chart.min.js",
+  "main": "ngChart.min.js",
   "keywords": [
     "angular",
     "directive",
@@ -14,7 +14,8 @@
     "chart.js"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "homepage": "https://github.com/iktw/ngChart.js.git",
   "ignore": [
     "**/.*",
     "node_modules",

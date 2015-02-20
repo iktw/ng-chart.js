@@ -1,6 +1,7 @@
 {
   "name": "ngChart.js",
   "version": "1.0.0",
+  "homepage": "https://github.com/iktw/ngChart.js",
   "authors": [
     "Mohammed Hammoud <mohammed@iktw.se>"
   ],
@@ -9,13 +10,10 @@
   "keywords": [
     "angular",
     "directive",
-    "chart",
     "chartjs",
-    "chart.js"
+    "chart"
   ],
   "license": "MIT",
-  "private": false,
-  "homepage": "https://github.com/iktw/ngChart.js.git",
   "ignore": [
     "**/.*",
     "node_modules",
